@@ -33,7 +33,6 @@ function count() {
 }
 
 function test() {
-	
 	console.log(`Let's test your programming knowledge.
 	Why do we use methods?
 	1. To repeat a statement multiple times.
